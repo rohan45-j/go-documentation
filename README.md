@@ -42,5 +42,7 @@ statement
  3. Environment setup
 
 a. IDE / Text Editor -> Any text editor- Notepad / Notepad++ / VSCode (free), Vim (free) / GoLand (paid)
+
 b. Go compiler -> compiler translates the source code into machine/executable code so that the machine can understand the instructions
+
 c. go extension for VSCode
