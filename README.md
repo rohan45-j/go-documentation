@@ -1,4 +1,5 @@
 Go Programming
+
 1. Introduction to Go Programming
 What is Go?
 
@@ -30,11 +31,11 @@ statement
 
   func main() {
 
-    fmt.Println(“My name is Anisul Islam”)
+    fmt.Println(“My name is  Rohan”)
 
   }
 
-  output: My name is Anisul Islam
+  output: My name is Rohan
  3. Environment setup
 IDE / Text Editor -> Any text editor- notepad / notepad++ / VSCode (free), Vim (free) / GoLand (paid)
 Go compiler -> compiler translate the source code into machine/executable code so that machine can understand the instructions
